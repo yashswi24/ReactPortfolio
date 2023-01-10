@@ -90,7 +90,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"https://youtube.com"}
+          href={"https://www.linkedin.com/in/yashswi-singh-6305bb205/"}
         >
           <YouTube
             width={25}
