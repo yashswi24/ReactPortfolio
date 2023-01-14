@@ -90,7 +90,7 @@ const BlogComponent = (props) => {
         variants={Item}
         
         >
-            <Box target="_blank" to={{pathname: link}}
+            <Box link={link} onClick={() => window.location = link}
         >
             <Image img={imgSrc} />
             <Title>{name}</Title>
