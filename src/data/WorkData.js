@@ -7,7 +7,7 @@ export const Work = [
         description:"It is build on top of the streamlit, with styledComponents.",
         tags:["streamlit","Python","styledComponents"],
         
-        demo:"https://github.com/yashswi24/Data-Analysis-Web-App",
+        demo:"https://cryptohunters.streamlit.app/",
         github:"https://github.com/yashswi24/Data-Analysis-Web-App"
     },
     {
@@ -35,9 +35,32 @@ export const Work = [
         description:"A cool looking Portfolio website build using ReactJS and styledComponents.It has really smooth animations.",
         tags:["react","styledComponents","react-router"],
         
-        demo:"https://github.com/yashswi24",
+        demo:"https://yashswisingh.vercel.app/",
         github:"https://github.com/yashswi24"
        
     },
+    {
+        id:5,
+        name:"Crypto Dashboard",
+        description:"A Dashboard website build using ReactJS and Tailwind. It has many useful features such as Crypto Analysis And Trending Crypto Trending NEWS.",
+        tags:["react","Tailwind","Data-Analysis"],
+        
+        demo:"https://crypto-hunters.vercel.app/",
+        github:"https://github.com/yashswi24/CryptoHunters"
+       
+    },
+
+    {
+        id:6,
+        name:"NFT Marketplace",
+        description:"A NFT marketplace build using ReactJS and Tailwind.",
+        tags:["react","Tailwind"],
+        
+        demo:"http://thebrandglobaltv.com/",
+        github:"https://github.com/yashswi24"
+       
+    },
+
+
   
 ] 
